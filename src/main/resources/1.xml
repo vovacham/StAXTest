@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data"
+                  xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <V8Exch:Data>
+
+
+        <v8:CatalogObject.Номенклатура>
+            <v8:IsFolder>true</v8:IsFolder>
+            <v8:Ref xsi:type="v8:CatalogRef.Номенклатура">f9e518ab-ca04-11df-9d03-001fc609abf4</v8:Ref>
+            <v8:DeletionMark>false</v8:DeletionMark>
+            <v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+            <v8:Code>00000000019</v8:Code>
+            <v8:Description>Материалы</v8:Description>
+            <v8:ВидНоменклатуры xsi:type="v8:CatalogRef.ВидыНоменклатуры">276acc2f-e1b5-11e4-b8c6-94de80214ea9</v8:ВидНоменклатуры>
+        </v8:CatalogObject.Номенклатура>
+
+        <v8:CatalogObject.Банки>
+            <v8:IsFolder>false</v8:IsFolder>
+            <v8:Ref xsi:type="v8:CatalogRef.Банки">c49247fa-13e4-11e0-bf19-001e5848397d</v8:Ref>
+            <v8:DeletionMark>false</v8:DeletionMark>
+            <v8:Parent xsi:type="v8:CatalogRef.Банки">b8936935-13e4-11e0-bf19-001e5848397d</v8:Parent>
+            <v8:Code>046126708</v8:Code>
+            <v8:Description>ПРИО-ВНЕШТОРГБАНК (ПАО)</v8:Description>
+            <v8:КоррСчет>30101810500000000708</v8:КоррСчет>
+            <v8:Город>г. Рязань</v8:Город>
+            <v8:Адрес>ул Есенина, 82/26</v8:Адрес>
+            <v8:Телефоны>(4912) 200-003</v8:Телефоны>
+            <v8:РучноеИзменение>0</v8:РучноеИзменение>
+            <v8:СВИФТБИК>PRIORU2JXXX</v8:СВИФТБИК>
+            <v8:Страна xsi:type="v8:CatalogRef.СтраныМира">4e127564-d74f-4dd9-bced-0327f0f4e061</v8:Страна>
+        </v8:CatalogObject.Банки>
+
+        <v8:CatalogObject.Номенклатура>
+            <v8:IsFolder>true</v8:IsFolder>
+            <v8:Ref xsi:type="v8:CatalogRef.Номенклатура">f9e518ab-ca04-11df-9d03-001fc609abf4</v8:Ref>
+            <v8:DeletionMark>false</v8:DeletionMark>
+            <v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+            <v8:Code>00000000019</v8:Code>
+            <v8:Description>Материалы</v8:Description>
+            <v8:ВидНоменклатуры xsi:type="v8:CatalogRef.ВидыНоменклатуры">276acc2f-e1b5-11e4-b8c6-94de80214ea9</v8:ВидНоменклатуры>
+        </v8:CatalogObject.Номенклатура>
+
+
+        <v8:Материалы>
+            <v8:Номенклатура xsi:type="v8:CatalogRef.Номенклатура">b332b147-2ef6-11e2-b022-9c50e4beff1a</v8:Номенклатура>
+            <v8:КоличествоМест>0</v8:КоличествоМест>
+            <v8:ЕдиницаИзмерения xsi:type="v8:CatalogRef.КлассификаторЕдиницИзмерения">d37e0ba6-ca15-11df-9d03-001fc609abf4</v8:ЕдиницаИзмерения>
+            <v8:Коэффициент>1</v8:Коэффициент>
+            <v8:Количество>364.04</v8:Количество>
+            <v8:Счет xsi:type="v8:ChartOfAccountsRef.Хозрасчетный">e33ae0c2-fa0b-446f-8d59-3343bad473bb</v8:Счет>
+            <v8:ОтражениеВУСН>Принимаются</v8:ОтражениеВУСН>
+            <v8:НомерГТД xsi:type="v8:CatalogRef.НомераГТД">00000000-0000-0000-0000-000000000000</v8:НомерГТД>
+            <v8:СтранаПроисхождения xsi:type="v8:CatalogRef.СтраныМира">00000000-0000-0000-0000-000000000000
+            </v8:СтранаПроисхождения>
+            <v8:Себестоимость>0</v8:Себестоимость>
+            <v8:ДокументОприходования xsi:nil="true"/>
+            <v8:НоменклатурнаяГруппа xsi:type="v8:CatalogRef.НоменклатурныеГруппы">00000000-0000-0000-0000-000000000000
+            </v8:НоменклатурнаяГруппа>
+            <v8:СчетЗатрат xsi:type="v8:ChartOfAccountsRef.Хозрасчетный">00000000-0000-0000-0000-000000000000
+            </v8:СчетЗатрат>
+            <v8:СтатьяЗатрат xsi:type="v8:CatalogRef.СтатьиЗатрат">00000000-0000-0000-0000-000000000000
+            </v8:СтатьяЗатрат>
+            <v8:ПодразделениеЗатрат xsi:type="v8:CatalogRef.ПодразделенияОрганизаций">00000000-0000-0000-0000-000000000000</v8:ПодразделениеЗатрат>
+            <v8:СпособУчетаНДС/>
+        </v8:Материалы>
+    </V8Exch:Data>
+</V8Exch:_1CV8DtUD>
